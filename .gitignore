@@ -1,2 +1,4 @@
 /.ipynb_checkpoints
 *.pyc
+data/punkter_m_højde.csv
+data/punkter_m_højde.json
